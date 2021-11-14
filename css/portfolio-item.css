@@ -24,7 +24,7 @@ body {
 	height: 180px;
   }
 
-#icones-rs {
+.icones-rs {
 	display: block;
 	margin: 0 auto;
 	width: 16px;
